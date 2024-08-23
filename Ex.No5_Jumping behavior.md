@@ -16,6 +16,7 @@ To write a python program to simulate Jumbing behavior.
 10. land the player and display the player at every timestep
 11.  Stop the program
  ### Program:
+ ```
 import pygame
 pygame.init()
 
@@ -66,7 +67,7 @@ while running:
     pygame.time.delay(30)
 
 pygame.quit()
-
+```
 ### Output:
 ![aig 5](https://github.com/user-attachments/assets/3a7f0c6e-8f5f-42be-b3a2-709ba81dac1c)
 
